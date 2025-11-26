@@ -570,12 +570,6 @@ Primary Region (us-east-1)          Secondary Region (us-west-2)
 
 ---
 
-## ➡️ Next Steps
-
-Continue to [Phase 3: Terraform Automation](Phase3-Terraform-Automation.md) to see how this architecture is implemented as infrastructure-as-code.
-
----
-
 ## 📚 References
 
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
