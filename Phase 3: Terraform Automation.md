@@ -487,7 +487,3 @@ aws logs get-log-events --log-group-name /ecs/3-tier-graviton-dev --log-stream-n
 
 ---
 
-## ⬅️ Previous Phases
-
-- [Phase 1: Manual Build](Phase1-Manual-Build.md) - Build the architecture manually to understand each component
-- [Phase 2: Enterprise-Grade Upgrade Plan](Phase2-Enterprise-Upgrade.md) - Production enhancements and best practices
