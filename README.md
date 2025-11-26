@@ -286,18 +286,8 @@ terraform apply
 ```
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - AWS Documentation and Well-Architected Framework
 - HashiCorp Terraform Documentation
-- WordPress Docker Official Image maintainers
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
+- WordPress Docker Official Image maintainers 
