@@ -787,7 +787,3 @@ You've successfully built an enterprise-style 3-tier architecture on AWS. You no
 - How IAM roles enable secure service-to-service communication
 
 ---
-
-## ➡️ Next Steps
-
-Continue to [Phase 2: Enterprise-Grade Upgrade Plan](Phase2-Enterprise-Upgrade.md) to learn about production-ready enhancements and best practices.
