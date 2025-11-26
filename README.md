@@ -284,16 +284,6 @@ terraform apply
 └── docs/
     └── architecture-diagram.png   # Architecture visual
 ```
-
----
-
-## 👤 Author
-
-**Arun**
-
-- GitHub: [@arun001302](https://github.com/arun001302)
-- LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
-
 ---
 
 ## 📄 License
