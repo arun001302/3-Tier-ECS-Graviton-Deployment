@@ -221,6 +221,7 @@ Estimated monthly costs for this deployment in **us-east-1**:
 ### Quick Start Options
 
 **Option 1: Learn by Building Manually**
+
 Follow Phase 1: Manual Build to understand each component.
 
 **Option 2: Deploy with Terraform**
