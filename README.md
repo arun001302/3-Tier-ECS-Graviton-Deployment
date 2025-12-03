@@ -95,7 +95,6 @@ This deployment follows the AWS Well-Architected Framework and implements a clas
 This project is structured in three phases, progressing from manual deployment to full automation:
 
 ### Phase 1: Manual Build
-**[📖 Read Phase 1 Guide](Phase1-Manual-Build.md)**
 
 Build the entire infrastructure manually using the AWS Console. This phase teaches the fundamentals of how each AWS service works and how they connect together.
 
@@ -110,7 +109,6 @@ Build the entire infrastructure manually using the AWS Console. This phase teach
 ---
 
 ### Phase 2: Enterprise-Grade Upgrade Plan
-**[📖 Read Phase 2 Guide](Phase2-Enterprise-Upgrade.md)**
 
 A technical design document outlining production-ready enhancements and best practices.
 
@@ -125,7 +123,6 @@ A technical design document outlining production-ready enhancements and best pra
 ---
 
 ### Phase 3: Terraform Automation
-**[📖 Read Phase 3 Guide](Phase3-Terraform-Automation.md)**
 
 The complete infrastructure automated with Terraform. This phase provides production-ready, modular Terraform code that can be deployed with a single command.
 
@@ -224,7 +221,7 @@ Estimated monthly costs for this deployment in **us-east-1**:
 ### Quick Start Options
 
 **Option 1: Learn by Building Manually**
-Follow [Phase 1: Manual Build](Phase1-Manual-Build.md) to understand each component.
+Follow Phase 1: Manual Build to understand each component.
 
 **Option 2: Deploy with Terraform**
 ```bash
